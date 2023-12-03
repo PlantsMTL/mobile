@@ -32,6 +32,10 @@ const theme = StyleSheet.create({
         borderRadius: 40,
     },
     drawImg: {
+        marginTop: 130,
+        marginBottom: 20,
+        width: "30%",
+        height: "20%"
     }
 
 
